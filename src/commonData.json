@@ -1,0 +1,20 @@
+{
+  "expenseCategory": [
+    "Food",
+    "Car",
+    "Sport",
+    "Clothes",
+    "Rent",
+    "Holiday",
+    "Entertainment",
+    "Alcohol"
+  ],
+  "incomeSource": ["Job", "Sold", "Interest", "Investment"],
+  "currency": [
+    {
+      "pounds": "£",
+      "euros": "€",
+      "dollars": "$"
+    }
+  ]
+}
